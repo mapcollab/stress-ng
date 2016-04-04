@@ -33,3 +33,6 @@ install -m755 stress-ng            %{buildroot}/%{_bindir}/
 
 
 %changelog
+* Mon Apr 04 2016 Tomasz Rostaski <tomasz.rostanski@thalesgroup.com> 0.05.22-1
+- new package built with tito
+
